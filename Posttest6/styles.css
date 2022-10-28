@@ -1,0 +1,59 @@
+body{
+    background-color: #FFDDD2;
+}
+
+.header{
+    background-color: #FFB9B9;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.pilihForm{
+    text-align: center;
+    margin: auto;
+    background-color: #FFB9B9;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.pilihForm ul{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.pilihForm li{
+    list-style: none;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(140, 200, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.readForm{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: auto;
+    margin: auto;
+    width: 100%;
+    padding: 5px;
+}
+
+.form1{
+    text-align: center;
+    background-color: #FFB9B9;
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    padding: 25px;
+    border-radius: 10px;
+}
